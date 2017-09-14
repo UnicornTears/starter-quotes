@@ -1,12 +1,21 @@
-Members:
-T Guan
-T Stickney
+#Members
+- T Guan
+- T Stickney
 
-Style Conventions:
-Allman notation 
-8 space indentation
+#Style Conventions
+- Allman notation 
+- 8 space indentation
 
 
-Change Log (Newest First):
+# Changelog
+All notable changes to this project will be documented in this file.
 
--Added change log.
+## [Unreleased]
+
+## [1.0.0] - 2017-09-14
+### Added
+- Created change log.
+
+### Changed
+
+### Removed
