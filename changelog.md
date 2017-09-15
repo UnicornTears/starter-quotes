@@ -20,5 +20,6 @@ All notable changes to this project will be documented in this file.
 - Created change log.
 
 ### Changed
+- The way the text displays in the actor.php view.
 
 ### Removed
